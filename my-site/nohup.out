@@ -1,0 +1,9 @@
+
+------------------------------------------------
+KeystoneJS Started:
+My Site is ready on default port 3000
+------------------------------------------------
+
+[90mGET / [32m200 [90m161ms[0m
+[90mGET /blog [32m200 [90m162ms[0m
+[90mGET /keystone/signin [32m200 [90m71ms[0m
